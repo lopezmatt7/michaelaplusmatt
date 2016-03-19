@@ -1,7 +1,5 @@
-div {
-	font-family: sans-serif;
-	text-align: center;
+p {
 	font-family: "Seravek", ExtraLight; 
-	width: 800px;
-	padding: 25px;
+	font-size: 100px;
+	text-align: center;
 }
